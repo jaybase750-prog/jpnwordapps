@@ -1,1 +1,176 @@
-
+{
+  "version": 1,
+  "ads": [
+    {
+      "adId": "AD_001",
+      "advertiserId": "TEST_CITY_001",
+      "advertiserName": "Test City Ad 01",
+      "category": "lpk",
+      "targetType": "city",
+      "targetCity": "Kumamoto",
+      "order": 1,
+      "status": "active",
+      "banner": "images/AD_001_banner.webp",
+      "popup": "images/AD_001_popup.webp",
+      "detail": {
+        "title": "Test City Advertisement 01",
+        "description": "Contoh iklan khusus kota Kumamoto.",
+        "location": "Kumamoto",
+        "contact": "000-0000-0001",
+        "website": "https://example.com"
+      }
+    },
+    {
+      "adId": "AD_002",
+      "advertiserId": "TEST_CITY_002",
+      "advertiserName": "Test City Ad 02",
+      "category": "company",
+      "targetType": "city",
+      "targetCity": "Kumamoto",
+      "order": 2,
+      "status": "active",
+      "banner": "images/AD_002_banner.webp",
+      "popup": "images/AD_002_popup.webp",
+      "detail": {
+        "title": "Test City Advertisement 02",
+        "description": "Contoh iklan perusahaan khusus kota Kumamoto.",
+        "location": "Kumamoto",
+        "contact": "000-0000-0002",
+        "website": "https://example.com"
+      }
+    },
+    {
+      "adId": "AD_003",
+      "advertiserId": "TEST_CITY_003",
+      "advertiserName": "Test City Ad 03",
+      "category": "agency",
+      "targetType": "city",
+      "targetCity": "Kumamoto",
+      "order": 3,
+      "status": "active",
+      "banner": "images/AD_003_banner.webp",
+      "popup": "images/AD_003_popup.webp",
+      "detail": {
+        "title": "Test City Advertisement 03",
+        "description": "Contoh iklan agency khusus kota Kumamoto.",
+        "location": "Kumamoto",
+        "contact": "000-0000-0003",
+        "website": "https://example.com"
+      }
+    },
+    {
+      "adId": "AD_004",
+      "advertiserId": "TEST_IDN_001",
+      "advertiserName": "Test Indonesia Ad 01",
+      "category": "agency",
+      "targetType": "indonesia",
+      "targetCity": null,
+      "order": 1,
+      "status": "active",
+      "banner": "images/AD_004_banner.webp",
+      "popup": "images/AD_004_popup.webp",
+      "detail": {
+        "title": "Test Indonesia Advertisement 01",
+        "description": "Contoh iklan yang tampil untuk seluruh player Indonesia.",
+        "location": "Indonesia",
+        "contact": "000-0000-0004",
+        "website": "https://example.com"
+      }
+    },
+    {
+      "adId": "AD_005",
+      "advertiserId": "TEST_IDN_002",
+      "advertiserName": "Test Indonesia Ad 02",
+      "category": "lpk",
+      "targetType": "indonesia",
+      "targetCity": null,
+      "order": 2,
+      "status": "active",
+      "banner": "images/AD_005_banner.webp",
+      "popup": "images/AD_005_popup.webp",
+      "detail": {
+        "title": "Test Indonesia Advertisement 02",
+        "description": "Contoh iklan LPK nasional Indonesia.",
+        "location": "Indonesia",
+        "contact": "000-0000-0005",
+        "website": "https://example.com"
+      }
+    },
+    {
+      "adId": "AD_006",
+      "advertiserId": "TEST_IDN_003",
+      "advertiserName": "Test Indonesia Ad 03",
+      "category": "product",
+      "targetType": "indonesia",
+      "targetCity": null,
+      "order": 3,
+      "status": "active",
+      "banner": "images/AD_006_banner.webp",
+      "popup": "images/AD_006_popup.webp",
+      "detail": {
+        "title": "Test Indonesia Advertisement 03",
+        "description": "Contoh iklan produk untuk seluruh Indonesia.",
+        "location": "Indonesia",
+        "contact": "000-0000-0006",
+        "website": "https://example.com"
+      }
+    },
+    {
+      "adId": "AD_007",
+      "advertiserId": "TEST_GLOBAL_001",
+      "advertiserName": "Test Global Ad 01",
+      "category": "education",
+      "targetType": "global",
+      "targetCity": null,
+      "order": 1,
+      "status": "active",
+      "banner": "images/AD_007_banner.webp",
+      "popup": "images/AD_007_popup.webp",
+      "detail": {
+        "title": "Test Global Advertisement 01",
+        "description": "Contoh iklan global untuk player non-Indonesia.",
+        "location": "Japan",
+        "contact": "000-0000-0007",
+        "website": "https://example.com"
+      }
+    },
+    {
+      "adId": "AD_008",
+      "advertiserId": "TEST_GLOBAL_002",
+      "advertiserName": "Test Global Ad 02",
+      "category": "product",
+      "targetType": "global",
+      "targetCity": null,
+      "order": 2,
+      "status": "active",
+      "banner": "images/AD_008_banner.webp",
+      "popup": "images/AD_008_popup.webp",
+      "detail": {
+        "title": "Test Global Advertisement 02",
+        "description": "Contoh iklan produk global.",
+        "location": "Japan",
+        "contact": "000-0000-0008",
+        "website": "https://example.com"
+      }
+    },
+    {
+      "adId": "AD_009",
+      "advertiserId": "TEST_GLOBAL_003",
+      "advertiserName": "Test Global Ad 03",
+      "category": "company",
+      "targetType": "global",
+      "targetCity": null,
+      "order": 3,
+      "status": "active",
+      "banner": "images/AD_009_banner.webp",
+      "popup": "images/AD_009_popup.webp",
+      "detail": {
+        "title": "Test Global Advertisement 03",
+        "description": "Contoh iklan perusahaan global.",
+        "location": "Japan",
+        "contact": "000-0000-0009",
+        "website": "https://example.com"
+      }
+    }
+  ]
+}
