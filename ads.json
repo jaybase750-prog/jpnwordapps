@@ -7,15 +7,15 @@
       "advertiserName": "Test City Ad 01",
       "category": "lpk",
       "targetType": "city",
-      "targetCity": "Kumamoto",
+      "targetCity": "Medan",
       "order": 1,
       "status": "active",
-      "banner": "images/AD_001_banner.webp",
-      "popup": "images/AD_001_popup.webp",
+      "banner": "images/ads/AD_001_banner.webp",
+      "popup": "images/ads/AD_001_popup.webp",
       "detail": {
         "title": "Test City Advertisement 01",
         "description": "Contoh iklan khusus kota Kumamoto.",
-        "location": "Kumamoto",
+        "location": "Medan",
         "contact": "000-0000-0001",
         "website": "https://example.com"
       }
