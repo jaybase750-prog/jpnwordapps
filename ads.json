@@ -24,19 +24,19 @@
       "adId": "AD_002",
       "advertiserId": "TEST_CITY_002",
       "advertiserName": "Test City Ad 02",
-      "category": "company",
-      "targetType": "city",
-      "targetCity": "Kumamoto",
-      "order": 2,
-      "status": "active",
-      "banner": "images/AD_002_banner.webp",
-      "popup": "images/AD_002_popup.webp",
-      "detail": {
-        "title": "Test City Advertisement 02",
-        "description": "Contoh iklan perusahaan khusus kota Kumamoto.",
-        "location": "Kumamoto",
-        "contact": "000-0000-0002",
-        "website": "https://example.com"
+      "category": "lpk",
+          "targetType": "city",
+"targetCity": "Sabang",
+"order": 1,
+"status": "active",
+"banner": "https://raw.githubusercontent.com/jaybase750-prog/jpnwordapps/680d2a2f7936ed01f1aa33d05161f80afde3e464/images/ads/AD_002_banner.png",
+"popup": "https://raw.githubusercontent.com/jaybase750-prog/jpnwordapps/680d2a2f7936ed01f1aa33d05161f80afde3e464/images/ads/AD_002_popup.png",
+    "detail": {
+      "title": "Test City Advertisement 02",
+      "description": "Contoh iklan khusus kota Sabang.",
+        "location": "Sabang",
+        "contact": "000-0000-0001",
+        "website": "https://shinraijapanjobs.id"
       }
     },
     {
