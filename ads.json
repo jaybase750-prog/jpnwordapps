@@ -21,7 +21,7 @@
       }
     },
     {
-      "adId": "AD_002",
+  "adId": "AD_002",
   "advertiserId": "TEST_CITY_002",
   "advertiserName": "Test City Ad 02",
   "category": "lpk",
@@ -29,16 +29,16 @@
   "targetCity": "Sabang",
   "order": 1,
   "status": "active",
-  "banner": "https://raw.githubusercontent.com/jaybase750-prog/jpnwordapps/main/images/ads/AD_002_banner.jpg",
-  "popup": "https://raw.githubusercontent.com/jaybase750-prog/jpnwordapps/main/images/ads/AD_002_popup.jpg"
-    "detail": {
-      "title": "Test City Advertisement 02",
-      "description": "Contoh iklan khusus kota Sabang.",
-        "location": "Sabang",
-        "contact": "000-0000-0001",
-        "website": "https://shinraijapanjobs.id"
-      }
-    },
+  "banner": "https://raw.githubusercontent.com/jaybase750-prog/jpnwordapps/680d2a2f7936ed01f1aa33d05161f80afde3e464/images/ads/AD_002_banner.jpg",
+  "popup": "https://raw.githubusercontent.com/jaybase750-prog/jpnwordapps/680d2a2f7936ed01f1aa33d05161f80afde3e464/images/ads/AD_002_popup.jpg",
+  "detail": {
+    "title": "Test City Advertisement 02",
+    "description": "Contoh iklan khusus kota Sabang.",
+    "location": "Sabang",
+    "contact": "000-0000-0001",
+    "website": "https://shinraijapanjobs.id"
+  }
+},
     {
       "adId": "AD_003",
       "advertiserId": "TEST_CITY_003",
