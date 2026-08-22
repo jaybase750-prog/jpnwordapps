@@ -6,191 +6,76 @@
       "advertiserId": "TEST_CITY_001",
       "advertiserName": "Test City Ad 01",
       "category": "lpk",
-          "targetType": "city",
-"targetCity": "Medan",
-"order": 1,
-"status": "active",
-"banner": "https://raw.githubusercontent.com/jaybase750-prog/jpnwordapps/680d2a2f7936ed01f1aa33d05161f80afde3e464/images/ads/AD_001_banner.png",
-"popup": "https://raw.githubusercontent.com/jaybase750-prog/jpnwordapps/680d2a2f7936ed01f1aa33d05161f80afde3e464/images/ads/AD_001_popup.png",
-    "detail": {
-      "title": "Test City Advertisement 01",
-      "description": "Contoh iklan khusus kota Medan.",
+      "targetType": "city",
+      "targetCity": "Medan",
+      "order": 1,
+      "status": "active",
+      "banner": "https://raw.githubusercontent.com/jaybase750-prog/jpnwordapps/680d2a2f7936ed01f1aa33d05161f80afde3e464/images/ads/AD_001_banner.png",
+      "popup": "https://raw.githubusercontent.com/jaybase750-prog/jpnwordapps/680d2a2f7936ed01f1aa33d05161f80afde3e464/images/ads/AD_001_popup.png",
+      "detail": {
+        "title": "Test City Advertisement 01",
+        "description": "Contoh iklan khusus kota Medan.",
         "location": "Medan",
         "contact": "000-0000-0001",
         "website": "https://shinraijapanjobs.id"
       }
     },
     {
-  "adId": "AD_002",
-  "advertiserId": "TEST_CITY_002",
-  "advertiserName": "Test City Ad 02",
-  "category": "lpk",
-  "targetType": "city",
-  "targetCity": "Sabang",
-  "order": 1,
-  "status": "active",
-  "banner": "https://raw.githubusercontent.com/jaybase750-prog/jpnwordapps/main/images/ads/AD_002_banner.jpg",
-"popup": "https://raw.githubusercontent.com/jaybase750-prog/jpnwordapps/main/images/ads/AD_002_popup.jpg",
-  "detail": {
-    "title": "Test City Advertisement 02",
-    "description": "Contoh iklan khusus kota Sabang.",
-    "location": "Sabang",
-    "contact": "000-0000-0001",
-    "website": "https://shinraijapanjobs.id"
-  }
-},
-    {
-      "adId": "AD_003",
-      "advertiserId": "TEST_CITY_003",
-      "advertiserName": "Test City Ad 03",
-      "category": "agency",
+      "adId": "AD_002",
+      "advertiserId": "TEST_CITY_002",
+      "advertiserName": "Test City Ad 02",
+      "category": "lpk",
       "targetType": "city",
-      "targetCity": "Kumamoto",
-      "order": 3,
-      "status": "active",
-      "banner": "images/AD_003_banner.webp",
-      "popup": "images/AD_003_popup.webp",
-      "detail": {
-        "title": "Test City Advertisement 03",
-        "description": "Contoh iklan agency khusus kota Kumamoto.",
-        "location": "Kumamoto",
-        "contact": "000-0000-0003",
-        "website": "https://example.com"
-      }
-    },
-    {
-      "adId": "AD_004",
-      "advertiserId": "TEST_IDN_001",
-      "advertiserName": "Test Indonesia Ad 01",
-      "category": "agency",
-      "targetType": "indonesia",
-      "targetCity": null,
+      "targetCity": "Sabang",
       "order": 1,
       "status": "active",
-      "banner": "images/AD_004_banner.webp",
-      "popup": "images/AD_004_popup.webp",
+      "banner": "https://raw.githubusercontent.com/jaybase750-prog/jpnwordapps/main/images/ads/AD_002_banner.jpg",
+      "popup": "https://raw.githubusercontent.com/jaybase750-prog/jpnwordapps/main/images/ads/AD_002_popup.jpg",
       "detail": {
-        "title": "Test Indonesia Advertisement 01",
-        "description": "Contoh iklan yang tampil untuk seluruh player Indonesia.",
-        "location": "Indonesia",
-        "contact": "000-0000-0004",
-        "website": "https://example.com"
+        "title": "Test City Advertisement 02",
+        "description": "Contoh iklan khusus kota Sabang.",
+        "location": "Sabang",
+        "contact": "000-0000-0001",
+        "website": "https://shinraijapanjobs.id"
       }
     },
     {
       "adId": "AD_005",
       "advertiserId": "TEST_IDN_005",
       "advertiserName": "Test Indonesia Ad 05",
-      "category": "Agency",
+      "category": "agency",
       "targetType": "indonesia",
       "targetCity": null,
-      "order": 2,
+      "order": 1,
       "status": "active",
-     "banner": "https://raw.githubusercontent.com/jaybase750-prog/jpnwordapps/main/images/ads/AD_005_banner.png",
-"popup": "https://raw.githubusercontent.com/jaybase750-prog/jpnwordapps/main/images/ads/AD_005_popup.png",
+      "banner": "https://raw.githubusercontent.com/jaybase750-prog/jpnwordapps/main/images/ads/AD_005_banner.png",
+      "popup": "https://raw.githubusercontent.com/jaybase750-prog/jpnwordapps/main/images/ads/AD_005_popup.png",
       "detail": {
         "title": "Test Indonesia Advertisement 05",
-        "description": "Contoh iklan LPK nasional Indonesia.",
+        "description": "Contoh iklan agency untuk seluruh Indonesia.",
         "location": "Indonesia",
         "contact": "000-0000-0005",
         "website": "https://example.com"
       }
     },
     {
-      "adId": "AD_006",
-      "advertiserId": "TEST_IDN_003",
-      "advertiserName": "Test Indonesia Ad 03",
+      "adId": "AD_010",
+      "advertiserId": "TEST_GLOBAL_010",
+      "advertiserName": "Test Global Ad 10",
       "category": "product",
-      "targetType": "indonesia",
-      "targetCity": null,
-      "order": 3,
-      "status": "active",
-      "banner": "images/AD_006_banner.webp",
-      "popup": "images/AD_006_popup.webp",
-      "detail": {
-        "title": "Test Indonesia Advertisement 03",
-        "description": "Contoh iklan produk untuk seluruh Indonesia.",
-        "location": "Indonesia",
-        "contact": "000-0000-0006",
-        "website": "https://example.com"
-      }
-    },
-    {
-      "adId": "AD_007",
-      "advertiserId": "TEST_GLOBAL_001",
-      "advertiserName": "Test Global Ad 01",
-      "category": "education",
       "targetType": "global",
       "targetCity": null,
       "order": 1,
       "status": "active",
-      "banner": "images/AD_007_banner.webp",
-      "popup": "images/AD_007_popup.webp",
+      "banner": "https://raw.githubusercontent.com/jaybase750-prog/jpnwordapps/main/images/ads/AD_010_banner.png",
+      "popup": "https://raw.githubusercontent.com/jaybase750-prog/jpnwordapps/main/images/ads/AD_010_popup.png",
       "detail": {
-        "title": "Test Global Advertisement 01",
-        "description": "Contoh iklan global untuk player non-Indonesia.",
-        "location": "Japan",
-        "contact": "000-0000-0007",
-        "website": "https://example.com"
-      }
-    },
-    {
-      "adId": "AD_008",
-      "advertiserId": "TEST_GLOBAL_002",
-      "advertiserName": "Test Global Ad 02",
-      "category": "product",
-      "targetType": "global",
-      "targetCity": null,
-      "order": 2,
-      "status": "active",
-      "banner": "images/AD_008_banner.webp",
-      "popup": "images/AD_008_popup.webp",
-      "detail": {
-        "title": "Test Global Advertisement 02",
-        "description": "Contoh iklan produk global.",
-        "location": "Japan",
+        "title": "Test Global Advertisement 10",
+        "description": "Contoh iklan produk yang tersedia untuk pengguna di seluruh dunia.",
+        "location": "Worldwide",
         "contact": "000-0000-0008",
         "website": "https://example.com"
       }
-    },
-    {
-      "adId": "AD_009",
-      "advertiserId": "TEST_GLOBAL_003",
-      "advertiserName": "Test Global Ad 03",
-      "category": "company",
-      "targetType": "global",
-      "targetCity": null,
-      "order": 3,
-      "status": "active",
-      "banner": "images/AD_009_banner.webp",
-      "popup": "images/AD_009_popup.webp",
-      "detail": {
-        "title": "Test Global Advertisement 03",
-        "description": "Contoh iklan perusahaan global.",
-        "location": "Japan",
-        "contact": "000-0000-0009",
-        "website": "https://example.com"
-      }
-       },
-      {
-  "adId": "AD_010",
-  "advertiserId": "TEST_GLOBAL_010",
-  "advertiserName": "Test Global Ad 10",
-  "category": "product",
-  "targetType": "global",
-  "targetCity": null,
-  "order": 2,
-  "status": "active",
-  "banner": "https://raw.githubusercontent.com/jaybase750-prog/jpnwordapps/main/images/ads/AD_010_banner.png",
-"popup": "https://raw.githubusercontent.com/jaybase750-prog/jpnwordapps/main/images/ads/AD_010_popup.png",
-  "detail": {
-    "title": "Test Global Advertisement 10",
-    "description": "Contoh iklan produk yang tersedia untuk pengguna di seluruh dunia.",
-    "location": "Worldwide",
-    "contact": "000-0000-0008",
-    "website": "https://example.com"
-  }
-}
     }
   ]
 }
