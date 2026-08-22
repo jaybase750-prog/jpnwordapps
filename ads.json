@@ -79,17 +79,17 @@
     },
     {
       "adId": "AD_005",
-      "advertiserId": "TEST_IDN_002",
-      "advertiserName": "Test Indonesia Ad 02",
-      "category": "lpk",
+      "advertiserId": "TEST_IDN_005",
+      "advertiserName": "Test Indonesia Ad 05",
+      "category": "Agency",
       "targetType": "indonesia",
       "targetCity": null,
       "order": 2,
       "status": "active",
-      "banner": "images/AD_005_banner.webp",
-      "popup": "images/AD_005_popup.webp",
+     "banner": "https://raw.githubusercontent.com/jaybase750-prog/jpnwordapps/main/images/ads/AD_005_banner.png",
+"popup": "https://raw.githubusercontent.com/jaybase750-prog/jpnwordapps/main/images/ads/AD_005_popup.png",
       "detail": {
-        "title": "Test Indonesia Advertisement 02",
+        "title": "Test Indonesia Advertisement 05",
         "description": "Contoh iklan LPK nasional Indonesia.",
         "location": "Indonesia",
         "contact": "000-0000-0005",
@@ -171,6 +171,25 @@
         "contact": "000-0000-0009",
         "website": "https://example.com"
       }
+      {
+  "adId": "AD_010",
+  "advertiserId": "TEST_GLOBAL_010",
+  "advertiserName": "Test Global Ad 10",
+  "category": "product",
+  "targetType": "global",
+  "targetCity": null,
+  "order": 2,
+  "status": "active",
+  "banner": "https://raw.githubusercontent.com/jaybase750-prog/jpnwordapps/main/images/ads/AD_010_banner.png",
+"popup": "https://raw.githubusercontent.com/jaybase750-prog/jpnwordapps/main/images/ads/AD_010_popup.png",
+  "detail": {
+    "title": "Test Global Advertisement 10",
+    "description": "Contoh iklan produk yang tersedia untuk pengguna di seluruh dunia.",
+    "location": "Worldwide",
+    "contact": "000-0000-0008",
+    "website": "https://example.com"
+  }
+}
     }
   ]
 }
