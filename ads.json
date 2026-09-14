@@ -26,7 +26,7 @@
       "advertiserName": "Test City Ad 02",
       "category": "lpk",
       "targetType": "city",
-      "targetCity": "tebing tinggi",
+      "targetCity": "Tebing tinggi",
       "order": 1,
       "status": "active",
       "banner": "https://raw.githubusercontent.com/jaybase750-prog/jpnwordapps/main/images/ads/AD_002_banner.jpg",
@@ -34,7 +34,7 @@
       "detail": {
         "title": "Test City Advertisement 02",
         "description": "Contoh iklan khusus kota Sabang.",
-        "location": "tebing tinggi",
+        "location": "Tebing tinggi",
         "contact": "000-0000-0001",
         "website": "https://shinraijapanjobs.id"
       }
