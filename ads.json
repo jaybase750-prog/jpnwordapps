@@ -44,7 +44,7 @@
       "advertiserId": "TEST_IDN_005",
       "advertiserName": "Test Indonesia Ad 05",
       "category": "agency",
-      "targetType": "indonesia",
+      "targetType": "Sabang",
       "targetCity": null,
       "order": 1,
       "status": "active",
@@ -53,7 +53,7 @@
       "detail": {
         "title": "Test Indonesia Advertisement 05",
         "description": "Contoh iklan agency untuk seluruh Indonesia.",
-        "location": "Indonesia",
+        "location": "Sabang",
         "contact": "000-0000-0005",
         "website": "https://example.com"
       }
