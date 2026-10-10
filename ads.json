@@ -95,6 +95,25 @@
         "contact": "000-0000-0001",
         "website": "https://shinraijapanjobs.id"
       }
+        },
+      {
+      "adId": "AD_012",
+      "advertiserId": "MBU-ADV-000002",
+      "advertiserName": "LPK Yakumei",
+      "category": "LPK",
+      "targetType": "city",
+      "targetCity": "Bandung",
+      "order": 1,
+      "status": "active",
+      "banner": "https://client.masuburoustudio.id/media-approved/AD_012/banner.jpg",
+      "popup": "https://client.masuburoustudio.id/media-approved/AD_012/popup.jpg",
+      "detail": {
+        "title": "Promo LPK Yakumei",
+        "description": "Contoh iklan khusus Bandung.",
+        "location": "Bandung",
+        "contact": "08134395874395",
+        "website": "https://lpkyakumei.com"
+      }
     }
   ]
 }
