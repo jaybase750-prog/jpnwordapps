@@ -91,10 +91,10 @@
       "detail": {
         "title": "Test City Advertisement 01",
         "description": "Contoh iklan khusus Banda Aceh.",
-        "location": "bANDA aCEH",
+        "location": "Banda Aceh",
         "contact": "000-0000-0001",
         "website": "https://shinraijapanjobs.id"
-            }
+      }
     }
   ]
 }
