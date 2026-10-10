@@ -100,7 +100,7 @@
       "adId": "AD_012",
       "advertiserId": "MBU-ADV-000002",
       "advertiserName": "LPK Yakumei",
-      "category": "LPK",
+      "category": "lpk",
       "targetType": "city",
       "targetCity": "Bandung",
       "order": 1,
