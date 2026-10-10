@@ -2,12 +2,12 @@
   "version": 1,
   "ads": [
     {
-      "adId": "AD_011",
-      "advertiserId": "MBU-ADV-000001",
+      "adId": "AD_001",
+      "advertiserId": "sadsad01",
       "advertiserName": "Okaze Lpk",
       "category": "lpk",
       "targetType": "city",
-      "targetCity": "Banda Aceh",
+      "targetCity": "Medan",
       "order": 1,
       "status": "active",
       "banner": "https://client.masuburoustudio.id/media-approved/AD_011/banner.jpg",
