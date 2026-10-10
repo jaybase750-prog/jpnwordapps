@@ -76,6 +76,25 @@
         "contact": "000-0000-0008",
         "website": "https://example.com"
       }
+      {
+      "adId": "AD_011",
+      "advertiserId": "MBU-ADV-000001",
+      "advertiserName": "Okaze Lpk",
+      "category": "lpk",
+      "targetType": "city",
+      "targetCity": "Banda Aceh",
+      "order": 1,
+      "status": "active",
+      "banner": "https://client.masuburoustudio.id/media-approved/AD_011/banner.jpg",
+      "popup": "https://raw.githubusercontent.com/jaybase750-prog/jpnwordapps/680d2a2f7936ed01f1aa33d05161f80afde3e464/images/ads/AD_001_popup.png",
+      "detail": {
+        "title": "Test City Advertisement 01",
+        "description": "Contoh iklan khusus Banda Aceh.",
+        "location": "bANDA aCEH",
+        "contact": "000-0000-0001",
+        "website": "https://shinraijapanjobs.id"
+      }
+    },
     }
   ]
 }
